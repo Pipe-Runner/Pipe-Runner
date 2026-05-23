@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '00 00 * * *'
+    - cron: "00 00 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
@@ -15,3 +15,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_URL: https://wakapi.piperunner.in/api/compat/wakatime/v1
           DEBUG_LOGGING: True
+          SHOW_PROJECTS: False
+          SHOW_LOC_CHART: False
