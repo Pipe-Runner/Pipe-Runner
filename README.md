@@ -1,6 +1,6 @@
 Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform Wizard** 🎹 by night, not a huge fan of pizzas 🍕. I would be lying if I said programming is all I do, as you can tell from my ever so purple workbench. No GPUs were hurt in writing this README.
 
-[Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
+![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2039%20mins-blue?style=flat)
