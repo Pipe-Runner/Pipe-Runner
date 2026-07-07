@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-216%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2049%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -46,17 +46,17 @@ Sunday                   1095 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               7 hrs 35 mins       ██████████████████████░░░   89.69 % 
-TSX                      0 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Markdown                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-YAML                     0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Typescript               6 hrs 6 mins        ████████████████████████░   94.95 % 
+TSX                      0 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+YAML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Unknown                  0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Vscode                   8 hrs 28 mins       █████████████████████████   100.00 % 
+Vscode                   6 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Macos                    8 hrs 28 mins       █████████████████████████   100.00 % 
+Macos                    6 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -72,5 +72,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/07/2026 02:57:11 UTC
+ Last Updated on 07/07/2026 02:54:21 UTC
 <!--END_SECTION:waka-->
