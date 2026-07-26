@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -11,7 +11,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 > 📦 739.6 kB Used in GitHub's Storage 
  > 
-> 🏆 188 Contributions in the Year 2026
+> 🏆 189 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -25,7 +25,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 🌞 Morning                1725 commits        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
 🌆 Daytime                2956 commits        █████████░░░░░░░░░░░░░░░░   37.43 % 
 🌃 Evening                1995 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-🌙 Night                  1221 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌙 Night                  1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -33,10 +33,10 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 Monday                   972 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 Tuesday                  1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 Wednesday                1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Thursday                 693 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Thursday                 693 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 Friday                   1590 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 Saturday                 1449 commits        █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Sunday                   1106 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Sunday                   1107 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
 
@@ -46,20 +46,20 @@ Sunday                   1106 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TSX                      5 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.64 % 
-Typescript               2 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-YAML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Bash                     1 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Unknown                  1 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+TSX                      6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.44 % 
+Typescript               3 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+YAML                     1 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Bash                     1 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Unknown                  1 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-Vscode                   12 hrs 12 mins      ██████████████████░░░░░░░   71.43 % 
-Sonnet                   4 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-Copilot                  0 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Claude                   0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Vscode                   12 hrs 50 mins      ██████████████████░░░░░░░   73.51 % 
+Sonnet                   4 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Copilot                  0 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Claude                   0 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Macos                    17 hrs 4 mins       █████████████████████████   100.00 % 
+Macos                    17 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +75,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 00:40:28 UTC
+ Last Updated on 26/07/2026 00:44:11 UTC
 <!--END_SECTION:waka-->
