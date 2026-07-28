@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,19 +22,19 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
-🌆 Daytime                2956 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌞 Morning                1728 commits        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+🌆 Daytime                2956 commits        █████████░░░░░░░░░░░░░░░░   37.39 % 
 🌃 Evening                1999 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
 🌙 Night                  1222 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   972 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Monday                   973 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Tuesday                  1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 Wednesday                1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 Thursday                 693 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Friday                   1590 commits        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Friday                   1590 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
 Saturday                 1449 commits        █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
 Sunday                   1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
@@ -46,20 +46,26 @@ Sunday                   1113 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TSX                      9 hrs 34 mins       ███████████░░░░░░░░░░░░░░   45.58 % 
-Typescript               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-YAML                     1 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Unknown                  1 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Bash                     1 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+TSX                      10 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.05 % 
+Typescript               3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+YAML                     1 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+Unknown                  1 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Bash                     1 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
 
 🔥 Editors: 
-Vscode                   14 hrs 50 mins      ██████████████████░░░░░░░   70.61 % 
-Sonnet                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.09 % 
-Copilot                  0 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Claude                   0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Vscode                   13 hrs 56 mins      █████████████████░░░░░░░░   68.04 % 
+Sonnet                   6 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+Copilot                  0 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Claude                   0 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Macos                    21 hrs 1 mins       █████████████████████████   100.00 % 
+Macos                    20 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -75,5 +81,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 00:42:43 UTC
+ Last Updated on 28/07/2026 00:39:29 UTC
 <!--END_SECTION:waka-->
