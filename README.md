@@ -46,20 +46,20 @@ Sunday                   1170 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               6 hrs 18 mins       █████████████████░░░░░░░░   68.25 % 
-TSX                      1 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Unknown                  0 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-YAML                     0 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-Docker                   0 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Typescript               4 hrs 4 mins        ██████████████████░░░░░░░   71.41 % 
+TSX                      0 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Unknown                  0 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+SQL                      0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+YAML                     0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Vscode                   5 hrs 23 mins       ███████████████░░░░░░░░░░   58.21 % 
-Sonnet                   3 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   39.90 % 
-Copilot                  0 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-Claude                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Vscode                   3 hrs 29 mins       ███████████████░░░░░░░░░░   61.06 % 
+Sonnet                   2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.61 % 
+Copilot                  0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Claude                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Macos                    9 hrs 14 mins       █████████████████████████   100.00 % 
+Macos                    5 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,5 +81,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 00:39:00 UTC
+ Last Updated on 06/08/2026 00:38:03 UTC
 <!--END_SECTION:waka-->
