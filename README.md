@@ -46,20 +46,19 @@ Sunday                   1170 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               4 hrs 4 mins        ██████████████████░░░░░░░   71.41 % 
-TSX                      0 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Unknown                  0 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-SQL                      0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-YAML                     0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Typescript               1 hrs 55 mins       ███████████████████░░░░░░   76.28 % 
+Unknown                  0 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+TSX                      0 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Javascript               0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-Vscode                   3 hrs 29 mins       ███████████████░░░░░░░░░░   61.06 % 
-Sonnet                   2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.61 % 
-Copilot                  0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-Claude                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Vscode                   1 hrs 35 mins       ████████████████░░░░░░░░░   63.02 % 
+Sonnet                   0 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.11 % 
+Copilot                  0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Claude                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Macos                    5 hrs 42 mins       █████████████████████████   100.00 % 
+Macos                    2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -81,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 00:38:03 UTC
+ Last Updated on 07/08/2026 01:21:42 UTC
 <!--END_SECTION:waka-->
