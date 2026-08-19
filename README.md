@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-279%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -46,19 +46,19 @@ Sunday                   1125 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               6 hrs 54 mins       ██████████████░░░░░░░░░░░   57.66 % 
-TSX                      2 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-Unknown                  1 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Markdown                 0 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Json                     0 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Typescript               6 hrs 37 mins       ████████████████░░░░░░░░░   62.81 % 
+TSX                      2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Unknown                  0 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Markdown                 0 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Json                     0 hrs 5 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-Sonnet                   10 hrs 11 mins      █████████████████████░░░░   85.11 % 
-Vscode                   1 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Claude                   0 hrs 11 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Sonnet                   8 hrs 59 mins       █████████████████████░░░░   85.33 % 
+Vscode                   1 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Claude                   0 hrs 9 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Macos                    11 hrs 58 mins      █████████████████████████   100.00 % 
+Macos                    10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/08/2026 00:19:50 UTC
+ Last Updated on 19/08/2026 00:20:34 UTC
 <!--END_SECTION:waka-->
