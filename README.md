@@ -46,21 +46,21 @@ Sunday                   5027 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               11 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   40.48 % 
-Markdown                 5 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Unknown                  4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-TSX                      4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Json                     0 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Typescript               9 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.62 % 
+Markdown                 5 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Unknown                  4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+TSX                      4 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Json                     0 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Sonnet                   19 hrs 12 mins      ██████████████████░░░░░░░   70.43 % 
-Vscode                   5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Copilot                  2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Fable                    0 hrs 22 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Claude                   0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Sonnet                   19 hrs 12 mins      ███████████████████░░░░░░   74.27 % 
+Vscode                   4 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Copilot                  1 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Fable                    0 hrs 22 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Claude                   0 hrs 13 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 
 💻 Operating System: 
-Macos                    27 hrs 16 mins      █████████████████████████   100.00 % 
+Macos                    25 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,5 +82,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 00:36:07 UTC
+ Last Updated on 10/09/2026 00:34:50 UTC
 <!--END_SECTION:waka-->
