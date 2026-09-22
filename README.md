@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-380%20hrs%2039%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,21 +46,21 @@ Sunday                   6159 commits        █████░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TSX                      6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-Typescript               6 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.45 % 
-Unknown                  6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-Markdown                 2 hrs 1 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Json                     1 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Typescript               7 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+TSX                      7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+Unknown                  6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Markdown                 2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Json                     0 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 🔥 Editors: 
-Sonnet                   16 hrs 22 mins      ████████████████░░░░░░░░░   63.59 % 
-Vscode                   7 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   27.73 % 
-Copilot                  1 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-Opus                     0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-Claude                   0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Sonnet                   16 hrs 22 mins      ████████████████░░░░░░░░░   62.90 % 
+Vscode                   7 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+Copilot                  1 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+Opus                     0 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Claude                   0 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Macos                    25 hrs 44 mins      █████████████████████████   100.00 % 
+Macos                    26 hrs 1 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,5 +82,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 00:38:24 UTC
+ Last Updated on 22/09/2026 00:39:19 UTC
 <!--END_SECTION:waka-->
