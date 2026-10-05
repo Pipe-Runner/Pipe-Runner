@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-408%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -22,21 +22,21 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2901 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-🌆 Daytime                4168 commits        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-🌃 Evening                3535 commits        ███████░░░░░░░░░░░░░░░░░░   28.28 % 
-🌙 Night                  1896 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+🌞 Morning                3048 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌆 Daytime                4308 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
+🌃 Evening                3667 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌙 Night                  1986 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   1463 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Tuesday                  1395 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Wednesday                1595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Thursday                 1365 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Friday                   2161 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Saturday                 2516 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-Sunday                   2005 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Monday                   1520 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Tuesday                  1439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Wednesday                1700 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Thursday                 1437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Friday                   2215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Saturday                 2612 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Sunday                   2086 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 ```
 
 
@@ -46,18 +46,18 @@ Sunday                   2005 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               6 hrs 42 mins       ████████████░░░░░░░░░░░░░   48.84 % 
-Markdown                 4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-TSX                      1 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Json                     0 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-Unknown                  0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Typescript               5 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.01 % 
+Markdown                 3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Json                     0 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Unknown                  0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+TSX                      0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-Vscode                   7 hrs 23 mins       █████████████░░░░░░░░░░░░   53.86 % 
-Claude                   6 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.14 % 
+Vscode                   7 hrs 2 mins        ███████████████░░░░░░░░░░   60.33 % 
+Claude                   4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
 
 💻 Operating System: 
-Macos                    13 hrs 43 mins      █████████████████████████   100.00 % 
+Macos                    11 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 01:15:42 UTC
+ Last Updated on 05/10/2026 00:39:41 UTC
 <!--END_SECTION:waka-->
