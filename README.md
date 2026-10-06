@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,18 +46,18 @@ Sunday                   2086 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               5 hrs 36 mins       ████████████░░░░░░░░░░░░░   48.01 % 
-Markdown                 3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
-Json                     0 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-Unknown                  0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-TSX                      0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Typescript               4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.92 % 
+Markdown                 3 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
+Json                     0 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Unknown                  0 hrs 32 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+F#                       0 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Vscode                   7 hrs 2 mins        ███████████████░░░░░░░░░░   60.33 % 
-Claude                   4 hrs 38 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+Vscode                   5 hrs 40 mins       ███████████████░░░░░░░░░░   58.79 % 
+Claude                   3 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   41.21 % 
 
 💻 Operating System: 
-Macos                    11 hrs 40 mins      █████████████████████████   100.00 % 
+Macos                    9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/10/2026 00:39:41 UTC
+ Last Updated on 06/10/2026 00:38:16 UTC
 <!--END_SECTION:waka-->
