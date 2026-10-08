@@ -46,18 +46,18 @@ Sunday                   2086 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Markdown                 3 hrs 43 mins       █████████████░░░░░░░░░░░░   50.80 % 
-Typescript               2 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
-Json                     0 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Unknown                  0 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-F#                       0 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Typescript               2 hrs 1 mins        ███████████░░░░░░░░░░░░░░   45.63 % 
+Markdown                 1 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.16 % 
+Unknown                  0 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+F#                       0 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Bash                     0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 🔥 Editors: 
-Claude                   3 hrs 58 mins       ██████████████░░░░░░░░░░░   54.16 % 
-Vscode                   3 hrs 22 mins       ███████████░░░░░░░░░░░░░░   45.84 % 
+Vscode                   2 hrs 52 mins       ████████████████░░░░░░░░░   64.74 % 
+Claude                   1 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.26 % 
 
 💻 Operating System: 
-Macos                    7 hrs 20 mins       █████████████████████████   100.00 % 
+Macos                    4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 00:37:07 UTC
+ Last Updated on 08/10/2026 00:36:57 UTC
 <!--END_SECTION:waka-->
