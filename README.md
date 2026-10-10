@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-409%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -11,7 +11,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 > 📦 739.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,086 Contributions in the Year 2026
+> 🏆 1,087 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,8 +23,8 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 ```text
 🌞 Morning                3048 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-🌆 Daytime                4308 commits        ████████░░░░░░░░░░░░░░░░░   33.12 % 
-🌃 Evening                3667 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
+🌆 Daytime                4308 commits        ████████░░░░░░░░░░░░░░░░░   33.11 % 
+🌃 Evening                3668 commits        ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 🌙 Night                  1986 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -34,9 +34,9 @@ Monday                   1520 commits        ███░░░░░░░░�
 Tuesday                  1439 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 Wednesday                1700 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 Thursday                 1437 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Friday                   2215 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Friday                   2216 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
 Saturday                 2612 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-Sunday                   2086 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Sunday                   2086 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
 ```
 
 
@@ -46,18 +46,18 @@ Sunday                   2086 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               1 hrs 33 mins       ██████████████████░░░░░░░   71.30 % 
-Unknown                  0 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Markdown                 0 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-Bash                     0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-F#                       0 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Bash                     0 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Markdown                 0 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+Typescript               0 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.80 % 
+Rust                     0 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Python                   0 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 
 🔥 Editors: 
-Vscode                   1 hrs 49 mins       █████████████████████░░░░   83.58 % 
-Claude                   0 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Vscode                   0 hrs 22 mins       ██████████████████████░░░   89.62 % 
+Claude                   0 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
 
 💻 Operating System: 
-Macos                    2 hrs 10 mins       █████████████████████████   100.00 % 
+Macos                    0 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,9 +69,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+TypeScript               22 repos            ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
 Python                   16 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Rust                     10 repos            ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+Rust                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
 Jupyter Notebook         8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 00:38:47 UTC
+ Last Updated on 10/10/2026 00:36:57 UTC
 <!--END_SECTION:waka-->
