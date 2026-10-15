@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-411%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,18 +46,18 @@ Sunday                   2233 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               0 hrs 29 mins       ██████████████░░░░░░░░░░░   55.17 % 
-Markdown                 0 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-TSX                      0 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Unknown                  0 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Rust                     0 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Typescript               1 hrs 38 mins       ███████████████░░░░░░░░░░   59.45 % 
+TSX                      0 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+SCSS                     0 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Markdown                 0 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Unknown                  0 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 
 🔥 Editors: 
-Vscode                   0 hrs 50 mins       ████████████████████████░   95.21 % 
-Claude                   0 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Vscode                   2 hrs 42 mins       █████████████████████████   98.47 % 
+Claude                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Macos                    0 hrs 53 mins       █████████████████████████   100.00 % 
+Macos                    2 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -79,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 00:32:00 UTC
+ Last Updated on 15/10/2026 00:35:25 UTC
 <!--END_SECTION:waka-->
