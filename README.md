@@ -46,17 +46,17 @@ Sunday                   2800 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               3 hrs 29 mins       ███████████████████░░░░░░   76.66 % 
-TSX                      0 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-SCSS                     0 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-Markdown                 0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Unknown                  0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Typescript               3 hrs 29 mins       ███████████████████░░░░░░   77.78 % 
+TSX                      0 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+SCSS                     0 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+Markdown                 0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+YAML                     0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Vscode                   4 hrs 33 mins       █████████████████████████   100.00 % 
+Vscode                   4 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Macos                    4 hrs 33 mins       █████████████████████████   100.00 % 
+Macos                    4 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +78,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 00:36:08 UTC
+ Last Updated on 19/10/2026 00:35:18 UTC
 <!--END_SECTION:waka-->
