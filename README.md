@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-416%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,17 +46,17 @@ Sunday                   3205 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               4 hrs 17 mins       ████████████████░░░░░░░░░   65.07 % 
-TSX                      1 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-SCSS                     0 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-YAML                     0 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Markdown                 0 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Typescript               4 hrs 33 mins       ███████████████████░░░░░░   74.13 % 
+TSX                      1 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+YAML                     0 hrs 13 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Markdown                 0 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Json                     0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Vscode                   6 hrs 34 mins       █████████████████████████   100.00 % 
+Vscode                   6 hrs 8 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Macos                    6 hrs 34 mins       █████████████████████████   100.00 % 
+Macos                    6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +78,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 00:34:31 UTC
+ Last Updated on 22/10/2026 00:36:20 UTC
 <!--END_SECTION:waka-->
