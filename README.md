@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-419%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -46,17 +46,18 @@ Sunday                   3367 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               3 hrs 44 mins       ██████████████████░░░░░░░   71.08 % 
-TSX                      1 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-YAML                     0 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Markdown                 0 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Json                     0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Typescript               3 hrs 30 mins       ██████████████████░░░░░░░   70.92 % 
+TSX                      1 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+YAML                     0 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Json                     0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+SCSS                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Vscode                   5 hrs 15 mins       █████████████████████████   100.00 % 
+Vscode                   4 hrs 56 mins       █████████████████████████   99.96 % 
+Claude                   0 hrs 0 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Macos                    5 hrs 15 mins       █████████████████████████   100.00 % 
+Macos                    4 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -78,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 00:36:26 UTC
+ Last Updated on 24/10/2026 00:34:42 UTC
 <!--END_SECTION:waka-->
