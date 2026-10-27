@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,21 +22,21 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7462 commits        ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌆 Daytime                8497 commits        ████████░░░░░░░░░░░░░░░░░   30.05 % 
-🌃 Evening                7625 commits        ███████░░░░░░░░░░░░░░░░░░   26.97 % 
-🌙 Night                  4688 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+🌞 Morning                7756 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+🌆 Daytime                8777 commits        ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌃 Evening                7889 commits        ███████░░░░░░░░░░░░░░░░░░   26.93 % 
+🌙 Night                  4868 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3215 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Tuesday                  2759 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Wednesday                4848 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Thursday                 3597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-Friday                   3834 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
-Saturday                 5506 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-Sunday                   4513 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Monday                   3329 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Tuesday                  2847 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Wednesday                5058 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Thursday                 3741 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Friday                   3942 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 5698 commits        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+Sunday                   4675 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 ```
 
 
@@ -46,19 +46,19 @@ Sunday                   4513 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               6 hrs 6 mins        ███████████████████░░░░░░   76.36 % 
-TSX                      1 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-YAML                     0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Bash                     0 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Javascript               0 hrs 4 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Typescript               5 hrs 39 mins       ████████████████████░░░░░   81.21 % 
+TSX                      0 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+YAML                     0 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Bash                     0 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 0 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-Vscode                   7 hrs 3 mins        ██████████████████████░░░   88.07 % 
-Claude                   0 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Github-copilot-cli       0 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Vscode                   5 hrs 55 mins       █████████████████████░░░░   85.11 % 
+Claude                   0 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Github-copilot-cli       0 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Macos                    8 hrs 0 mins        █████████████████████████   100.00 % 
+Macos                    6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 00:38:04 UTC
+ Last Updated on 27/10/2026 00:35:58 UTC
 <!--END_SECTION:waka-->
