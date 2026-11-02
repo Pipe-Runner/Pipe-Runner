@@ -11,7 +11,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 > 📦 739.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,138 Contributions in the Year 2026
+> 🏆 1,142 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                8202 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌆 Daytime                9204 commits        ███████░░░░░░░░░░░░░░░░░░   29.84 % 
-🌃 Evening                8296 commits        ███████░░░░░░░░░░░░░░░░░░   26.89 % 
-🌙 Night                  5146 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+🌞 Morning                8202 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+🌆 Daytime                9204 commits        ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+🌃 Evening                8306 commits        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌙 Night                  5157 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3500 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Tuesday                  2979 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Wednesday                5384 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Thursday                 3960 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Friday                   4112 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Saturday                 5992 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Sunday                   4921 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Monday                   3503 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Tuesday                  2979 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+Wednesday                5388 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+Thursday                 3966 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Friday                   4120 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Saturday                 5992 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Sunday                   4921 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 ```
 
 
@@ -46,19 +46,19 @@ Sunday                   4921 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               5 hrs 59 mins       ███████████████████░░░░░░   74.70 % 
-TSX                      1 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-Markdown                 0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-YAML                     0 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS                      0 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Typescript               4 hrs 11 mins       █████████████████░░░░░░░░   69.03 % 
+TSX                      1 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Markdown                 0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+CSS                      0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Python                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🔥 Editors: 
-Vscode                   6 hrs 32 mins       ████████████████████░░░░░   81.53 % 
-Github-copilot-cli       0 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Claude                   0 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Vscode                   5 hrs 5 mins        █████████████████████░░░░   84.06 % 
+Github-copilot-cli       0 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Claude                   0 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 💻 Operating System: 
-Macos                    8 hrs 1 mins        █████████████████████████   100.00 % 
+Macos                    6 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 00:32:25 UTC
+ Last Updated on 02/11/2026 00:29:11 UTC
 <!--END_SECTION:waka-->
