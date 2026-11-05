@@ -11,7 +11,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 > 📦 739.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,154 Contributions in the Year 2026
+> 🏆 1,155 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,19 +46,19 @@ Sunday                   4921 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               2 hrs 0 mins        ███████████████░░░░░░░░░░   58.54 % 
-TSX                      1 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
-CSS                      0 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-Python                   0 hrs 3 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-YAML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TSX                      1 hrs 11 mins       ████████████████████░░░░░   78.79 % 
+Typescript               0 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+CSS                      0 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+YAML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Json                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Vscode                   2 hrs 43 mins       ████████████████████░░░░░   79.21 % 
-Github-copilot-cli       0 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Claude                   0 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Vscode                   1 hrs 22 mins       ███████████████████████░░   92.06 % 
+Github-copilot-cli       0 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+Claude                   0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Macos                    3 hrs 25 mins       █████████████████████████   100.00 % 
+Macos                    1 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2026 00:30:34 UTC
+ Last Updated on 05/11/2026 00:29:10 UTC
 <!--END_SECTION:waka-->
