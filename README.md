@@ -46,19 +46,18 @@ Sunday                   4921 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-TSX                      1 hrs 11 mins       ████████████████████░░░░░   78.79 % 
-Typescript               0 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-CSS                      0 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-YAML                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Json                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TSX                      0 hrs 16 mins       ██████████████░░░░░░░░░░░   55.22 % 
+CSS                      0 hrs 8 mins        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+Typescript               0 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
+YAML                     0 hrs 1 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Json                     0 hrs 1 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 
 🔥 Editors: 
-Vscode                   1 hrs 22 mins       ███████████████████████░░   92.06 % 
-Github-copilot-cli       0 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-Claude                   0 hrs 2 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Vscode                   0 hrs 27 mins       ████████████████████████░   94.40 % 
+Claude                   0 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
 
 💻 Operating System: 
-Macos                    1 hrs 30 mins       █████████████████████████   100.00 % 
+Macos                    0 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +79,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2026 00:29:10 UTC
+ Last Updated on 06/11/2026 00:30:43 UTC
 <!--END_SECTION:waka-->
