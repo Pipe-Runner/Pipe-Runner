@@ -3,7 +3,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 ![Banner](https://github.com/Pipe-Runner/Pipe-Runner/blob/master/assets/banner.png?raw=true)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-437%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -11,7 +11,7 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 
 > 📦 739.7 kB Used in GitHub's Storage 
  > 
-> 🏆 1,238 Contributions in the Year 2026
+> 🏆 1,340 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -22,21 +22,21 @@ Hey there, name's Pipe. **Pixel Pusher** :triangular_ruler: by day, **Waveform W
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                9455 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌆 Daytime                10493 commits       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌃 Evening                9739 commits        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-🌙 Night                  6255 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+🌞 Morning                15190 commits       ███████░░░░░░░░░░░░░░░░░░   26.18 % 
+🌆 Daytime                16456 commits       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
+🌃 Evening                15787 commits       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+🌙 Night                  10584 commits       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   4014 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Tuesday                  3447 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Wednesday                6392 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Thursday                 4680 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-Friday                   4754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Saturday                 7017 commits        █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Sunday                   5638 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Monday                   6208 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Tuesday                  5075 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Wednesday                10462 commits       █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Thursday                 7566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Friday                   7122 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 11495 commits       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
+Sunday                   10089 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 
 
@@ -46,19 +46,19 @@ Sunday                   5638 commits        ████░░░░░░░�
 🕑︎ Time Zone: Europe/Oslo
 
 💬 Programming Languages: 
-Typescript               5 hrs 44 mins       ███████████████░░░░░░░░░░   60.64 % 
-Bash                     1 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-TSX                      1 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Markdown                 0 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Html                     0 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Typescript               7 hrs 10 mins       ███████████████░░░░░░░░░░   61.84 % 
+Bash                     1 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+TSX                      1 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Markdown                 0 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Html                     0 hrs 12 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 🔥 Editors: 
-Vscode                   7 hrs 50 mins       █████████████████████░░░░   82.83 % 
-Github-copilot-cli       0 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Claude                   0 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Vscode                   9 hrs 22 mins       ████████████████████░░░░░   80.83 % 
+Claude                   1 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+Github-copilot-cli       0 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 
 💻 Operating System: 
-Macos                    9 hrs 28 mins       █████████████████████████   100.00 % 
+Macos                    11 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -80,5 +80,5 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 00:31:38 UTC
+ Last Updated on 16/11/2026 00:34:56 UTC
 <!--END_SECTION:waka-->
